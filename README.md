@@ -5,7 +5,6 @@ This repository contains all the code, configuration files, and documentation fo
 ## Table of Contents
 - [Overview](#overview)
 - [Project Workflow](#project-workflow)
-- [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [Step-by-Step Instructions](#step-by-step-instructions)
@@ -32,23 +31,6 @@ The project demonstrates:
 3. **Generate OCR Data:** Use a Colab Notebook to extract text and bounding boxes.
 4. **Label Refinement in Label Studio:** Import and refine annotations.
 5. **Reflection and Final Report:** Write a reflection on your process and improvements.
-
-## Repository Structure
-Invoice-Annotation-Project/ 
-├── README.md 
-  ├── Project documentation 
-    - invoice_label_config.xml 
-
-    
-  ├── XML configuration for Label Studio 
-    - invoice_ocr_output.json 
-  ├── OCR output JSON file (generated via Colab) 
-    - label_studio_output.json 
-  ├── Final annotated JSON from Label Studio 
-    - document_analysis.txt 
-  ├── Bullet list of identified fields 
-    └── reflection.md
-
 
 ## Requirements
 
