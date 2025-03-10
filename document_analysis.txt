@@ -1,0 +1,7 @@
+- Invoice Number
+- Invoice Date
+- Customer Name
+- Item Descriptions
+- Quantity, Unit Price
+- Tax
+- Total Amount
