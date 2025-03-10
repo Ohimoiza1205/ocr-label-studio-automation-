@@ -14,7 +14,7 @@ This repository contains all the code, configuration files, and documentation fo
   - [Step 3: Generate OCR Data](#step-3-generate-ocr-data)
   - [Step 4: Label Refinement in Label Studio](#step-4-label-refinement-in-label-studio)
   - [Step 5: Reflection and Final Report](#step-5-reflection-and-final-report)
-- [Licence](#license)
+- [Licence](#licence)
 - [Contact](#contact)
 
 ## Overview
