@@ -38,6 +38,8 @@ Invoice-Annotation-Project/
 ├── README.md 
   ├── Project documentation 
     - invoice_label_config.xml 
+
+    
   ├── XML configuration for Label Studio 
     - invoice_ocr_output.json 
   ├── OCR output JSON file (generated via Colab) 
