@@ -35,4 +35,27 @@ The project demonstrates:
 5. **Reflection and Final Report:** Write a reflection on your process and improvements.
 
 ## Repository Structure
+Invoice-Annotation-Project/ ├── README.md # Project documentation ├── invoice_label_config.xml # XML configuration for Label Studio ├── invoice_ocr_output.json # OCR output JSON file (generated via Colab) ├── label_studio_output.json # Final annotated JSON from Label Studio ├── document_analysis.txt # Bullet list of identified fields └── reflection.md
 
+
+## Requirements
+
+- Python 3.7+  
+- Tesseract OCR (installed and in your PATH)  
+- Google Colab account (for running the OCR notebook)  
+- Label Studio (installed locally)
+
+## Setup and Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/Invoice-Annotation-Project.git
+   cd Invoice-Annotation-Project
+
+2. **Install Label Studio:**
+```bash
+pip install label-studio
+label-studio start
+```
+3. **Set Up Tesseract OCR:**
+Follow instructions for your OS to install Tesseract OCR.
