@@ -59,3 +59,6 @@ label-studio start
 ```
 3. **Set Up Tesseract OCR:**
 Follow instructions for your OS to install Tesseract OCR.
+
+Contact
+For any questions, please contact ![omoiza@ttu.edu].
