@@ -36,15 +36,15 @@ The project demonstrates:
 ## Repository Structure
 Invoice-Annotation-Project/ 
 ├── README.md 
-  # Project documentation 
+  ### Project documentation 
   ├── invoice_label_config.xml 
-  # XML configuration for Label Studio 
+  ### XML configuration for Label Studio 
   ├── invoice_ocr_output.json 
-  # OCR output JSON file (generated via Colab) 
+  ### OCR output JSON file (generated via Colab) 
   ├── label_studio_output.json 
-  # Final annotated JSON from Label Studio 
+  ### Final annotated JSON from Label Studio 
   ├── document_analysis.txt 
-  # Bullet list of identified fields 
+  ### Bullet list of identified fields 
   └── reflection.md
 
 
